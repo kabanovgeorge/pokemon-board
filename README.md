@@ -1,1 +1,1 @@
-# pockemon-board
+# pokemon-board
